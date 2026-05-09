@@ -1,0 +1,7 @@
+name: BedwarsRandomDropAddon
+main: fr.oneblock.bedwarsrandomdrop.BedwarsRandomDropAddon
+version: 1.0.0
+author: OneBlock
+description: Donne un objet aléatoire toutes les 5 secondes à un joueur BedWars.
+softdepend:
+  - BedWars1058
